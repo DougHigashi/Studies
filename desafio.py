@@ -18,6 +18,7 @@ if op==1:
          print(min(N))
          N.remove(min(N))
          cont2-=1
+         input()
 
 elif op==2:
     for x in range(cont):
@@ -29,6 +30,7 @@ elif op==2:
         print(max(N))
         N.remove(max(N))
         cont2-=1
+        input()
     
 elif op==3:
     for x in range(cont):
@@ -36,6 +38,7 @@ elif op==3:
         N.append(x)
         cont-=1
     print(sorted(N))
+    input()
     
               
 

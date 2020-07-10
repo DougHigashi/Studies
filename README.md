@@ -1,2 +1,5 @@
 # Studies
-Projetos de teste
+Projetos de teste do git
+
+
+## Atualizando README.md
